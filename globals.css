@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body { height: 100%; }
+body { background: #0B0F19; color: #E6E8F0; direction: rtl; }
+a { text-decoration: none; }
+label { display:block; font-weight:600; }
+input, select { outline:none; }
